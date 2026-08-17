@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>* 👨‍💻 Computer Science & Engineering student passionate about building and exploring technology.<br>* 💻 Interested in Software Development, Web Development, UI/UX, and Problem Solving.<br>* ☕ Currently focusing on Java, DSA, and strengthening my core CS fundamentals.<br>* 🎨 Creative side includes UI/UX, Graphic Design, Photography, and Video Editing.<br>* ✍️ Content Writer at ISTE, contributing to technical content and community initiatives.<br>* 🤝 Enjoy collaborating on projects, hackathons, open-source initiatives, and learning with others.<br>* 🚀 Always learning, building, and exploring new ideas to grow as a developer.<br>
+I'm a Computer Science and Engineering student who enjoys building things, experimenting with technology, and learning through hands-on work. My interests sit at the intersection of development, design, and creativity.<br><br>What I Work With:<br><br>◦  **Software:** Java, Python, JavaScript, C<br>◦   **Web:** HTML, CSS, React.js, Node.js<br>◦   **Core:** Data Structures, Algorithms, OOP, DBMS, SQL<br>◦   **Design:** Figma, UI/UX, Graphic Design<br>◦   **Creative:** Photography, Video Editing, Visual Content Creation<br>◦   **Collaboration:** Git, GitHub, Content Writing, Team Projects<br><br>Currently, I'm focusing on strengthening my Java and DSA skills while building practical projects and exploring modern web technologies. I also contribute as a Content Writer at ISTE, where I get to work with people, ideas, and technology beyond the classroom.<br><br>I believe the best way to learn is to build, make mistakes, improve, and build again. I'm always open to collaborating, exploring new ideas, and creating something useful along the way.<br>
 
 
 ## 🌐 Socials:
@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=raJEEv02kr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=raJEEv02kr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=raJEEv02kr&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
