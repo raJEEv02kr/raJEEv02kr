@@ -1,7 +1,9 @@
 <div align="center">
   <img src="./Banner%20Image.png" width="100%" alt="Rajeev Kumar Profile Banner">
 </div>
+
 <br>
+
 # 👤 About Me:
 
 I'm a Computer Science and Engineering student who enjoys building things, experimenting with technology, and learning through hands-on work. My interests sit at the intersection of development, design, and creativity.<br><br>What I Work With:<br><br>◦  **Software:** Java, Python, JavaScript, C<br>◦   **Web:** HTML, CSS, React.js, Node.js<br>◦   **Core:** Data Structures, Algorithms, OOP, DBMS, SQL<br>◦   **Design:** Figma, UI/UX, Graphic Design<br>◦   **Creative:** Photography, Video Editing, Visual Content Creation<br>◦   **Collaboration:** Git, GitHub, Content Writing, Team Projects<br><br>Currently, I'm focusing on strengthening my Java and DSA skills while building practical projects and exploring modern web technologies. I also contribute as a Content Writer at ISTE, where I get to work with people, ideas, and technology beyond the classroom.<br><br>I believe the best way to learn is to build, make mistakes, improve, and build again. I'm always open to collaborating, exploring new ideas, and creating something useful along the way.<br>
